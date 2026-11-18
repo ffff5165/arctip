@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+cache/
+console.jsonl
+traces.jsonl
+contracts/out/
+AGENTS.md
+.agents/
